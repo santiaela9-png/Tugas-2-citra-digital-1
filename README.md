@@ -28,5 +28,5 @@ Image Colorization menggunakan model Deep Learning yang memprediksi kanal warna 
 
 # Referensi
 - https://github.com/richzhang/colorization
-- https://docs.opencv.org/4.x/d6/d39/samples_2dnn_2colorization_8cpp-example.html
+
 
